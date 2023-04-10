@@ -38,8 +38,8 @@ export default class Resume extends Component {
 
           <div className="nine columns main-col">
 
-            <a href=""><h4>Click to here to view my resume.</h4></a>
-
+            <a href="../public/images/TessEirResume.pdf" target='_blank'><h4>Click to here to view my resume.</h4></a>
+            {/* <embed src="TessEirResume.pdf" width="800px" height="2100px" /> */}
             {/* {
               resumeData.work && resumeData.work.map((item) => {
                 return (

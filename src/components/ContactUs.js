@@ -18,6 +18,7 @@ export default class ContactUs extends Component {
                 <a a href={`${resumeData.linkedinUrl}`} target="_blank">
                 <h4>Linked in : {resumeData.linkedinId}</h4>
                 </a>
+                <h4>Email : {resumeData.email} </h4>
               </div>
             </aside>
           </div>

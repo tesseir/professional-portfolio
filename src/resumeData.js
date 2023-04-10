@@ -2,6 +2,7 @@ let resumeData = {
   "imagebaseurl": "https://github.com/tesseir",
   "name": "Tess Eir",
   "role": "Full Stack Web Developer",
+  "email": "tesss.eir@gmail.com",
   "linkedinId": "linkedin.com/in/tesseir",
   "linkedinUrl": "https://www.linkedin.com/in/tess-eir-6a3b69267/",
   "skypeid": "Your skypeid",
@@ -19,7 +20,7 @@ let resumeData = {
     },
   ],
   "aboutme": "I graduated from the University of Minnesota Coding Bootcamp in March of 2023. I am passionate about learning new technologies and solving problems. I am also a good communicator and a team player. I enjoy building custom computers and keyboards as well as playing videogames in my free time.",
-  "address": "USA",
+  "address": "Minnesota, USA",
   "website": "",
   "education": [
     {
@@ -27,7 +28,7 @@ let resumeData = {
       "specialization": "Full Stack Web Development",
       "MonthOfPassing": "March",
       "YearOfPassing": "2023",
-      "Achievements": "Some Achievements"
+      // "Achievements": "Some Achievements"
     },
   ],
   "work": [
