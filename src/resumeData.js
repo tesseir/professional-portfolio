@@ -2,7 +2,8 @@ let resumeData = {
   "imagebaseurl": "https://github.com/tesseir",
   "name": "Tess Eir",
   "role": "Full Stack Web Developer",
-  "linkedinId": "www.linkedin.com/in/tesseir",
+  "linkedinId": "linkedin.com/in/tesseir",
+  "linkedinUrl": "https://www.linkedin.com/in/tess-eir-6a3b69267/",
   "skypeid": "Your skypeid",
   "roleDescription": " Currently looking for an intern position or jr. developer position. I have a passion for all technologies, hardware and software.",
   "socialLinks": [
@@ -17,7 +18,7 @@ let resumeData = {
       "className": "fa fa-github"
     },
   ],
-  "aboutme": "I graduated from the University of Minnesota Coding Bootcamp in March of 2023. I am passionate about learning new technologies and solving problems. I am also a good communicator and a team player. I currently after my AWS Cloud Practitioners Certificate.",
+  "aboutme": "I graduated from the University of Minnesota Coding Bootcamp in March of 2023. I am passionate about learning new technologies and solving problems. I am also a good communicator and a team player. I enjoy building custom computers and keyboards as well as playing videogames in my free time.",
   "address": "USA",
   "website": "",
   "education": [

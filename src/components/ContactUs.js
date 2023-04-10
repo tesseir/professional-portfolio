@@ -12,11 +12,12 @@ export default class ContactUs extends Component {
             </div>
           </div>
           <div className="row">
+            
             <aside className="eigth columns footer-widgets">
               <div className="widget">
-                <h4>Linked in :
-                  {resumeData.linkedinId}
-                </h4>
+                <a a href={`${resumeData.linkedinUrl}`} target="_blank">
+                <h4>Linked in : {resumeData.linkedinId}</h4>
+                </a>
               </div>
             </aside>
           </div>
