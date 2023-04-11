@@ -9,19 +9,18 @@ export default class Porfolio extends Component {
             <h1>Check Out Some of My Works.</h1>
             <div id="portfolio-wrapper" className="bgrid-quarters s-bgrid-thirds cf">
               {
-                resumeData.portfolio && resumeData.portfolio.map((item) => {
+                resumeData.portfolio && resumeData.portfolio.map((item) => { 
                   return (
                     <div key={item.url} className="columns portfolio-item">
                       <div className="item-wrap">
-                        {/* <a href={item.githuburl} target='_blank'> */}
-                        <img src={item.imgurl} className="item-img" />
                         <a href={item.githuburl} target='_blank'>
-                          <div className="overlay">
+                          <img src={item.imgurl} className="item-img" />
+                          {/* <div className="overlay">
                             <div className="portfolio-item-meta">
-                              <h5>{item.name}</h5>
+                            <a href={item.githuburl} target='_blank'><h5>{item.name}</h5></a>
                               <p>{item.description}</p>
                             </div>
-                          </div>
+                          </div> */}
                         </a>
                       </div>
                     </div>
