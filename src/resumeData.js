@@ -80,7 +80,7 @@ let resumeData = {
     {
       "name": "Project Tracker",
       "description": "Project Tracker App using Handlebars",
-      "imgurl": "images/portfolio/project-Tracker.png",
+      "imgurl": "images/portfolio/project-tracker.png",
       "githuburl": "https://github.com/tesseir/project-tracker"
     },
     {
