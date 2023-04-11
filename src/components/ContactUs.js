@@ -15,7 +15,7 @@ export default class ContactUs extends Component {
             
             <aside className="eigth columns footer-widgets">
               <div className="widget">
-                <a a href={`${resumeData.linkedinUrl}`} target="_blank">
+                <a href={`${resumeData.linkedinUrl}`} target="_blank">
                 <h4>Linked in : {resumeData.linkedinId}</h4>
                 </a>
                 <h4>Email : {resumeData.email} </h4>

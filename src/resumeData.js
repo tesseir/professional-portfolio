@@ -5,7 +5,6 @@ let resumeData = {
   "email": "tesss.eir@gmail.com",
   "linkedinId": "linkedin.com/in/tesseir",
   "linkedinUrl": "https://www.linkedin.com/in/tess-eir-6a3b69267/",
-  "skypeid": "Your skypeid",
   "roleDescription": " Currently looking for an intern position or jr. developer position. I have a passion for all technologies, hardware and software.",
   "socialLinks": [
     {
