@@ -13,8 +13,8 @@ export default class Porfolio extends Component {
                   return (
                     <div key={item.url} className="columns portfolio-item">
                       <div className="item-wrap">
-                        <a href={`${item.githuburl}`} target='_blank'>
-                          <img src={`${item.imgurl}`} className="item-img" />
+                        <a href={`${item.githuburl}`} target='_blank' rel="noreferrer">
+                        <img src={`${item.imgurl}`} className="item-img"/>
                           <div className="overlay">
                             <div className="portfolio-item-meta">
                               <h5>{item.name}</h5>
@@ -28,7 +28,7 @@ export default class Porfolio extends Component {
                 })
               }
 
-{/* hard code test section */}
+              {/* hard code test section */}
 
               {/* <div key="test" className="columns portfolio-item">
                 <div className="item-wrap">
