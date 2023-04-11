@@ -1,6 +1,7 @@
 let resumeData = {
   "imagebaseurl": "https://github.com/tesseir",
   "name": "Tess Eir",
+  "pfp":  "profilepic.jpg",
   "role": "Full Stack Web Developer",
   "email": "tesss.eir@gmail.com",
   "linkedinId": "linkedin.com/in/tesseir",
@@ -68,37 +69,37 @@ let resumeData = {
     {
       "name": "E-commerce API",
       "description": "E-commerce API",
-      "imgurl": "images/portfolio/e-commerce.png",
+      "imgurl": "portfolio/e-commerce.png",
       "githuburl": "https://github.com/tesseir/e-commerce"
     },
     {
       "name": "Note Taker App",
       "description": "Note Taker App",
-      "imgurl": "images/portfolio/note-taker.png",
+      "imgurl": "portfolio/note-taker.png",
       "githuburl": "https://github.com/tesseir/note-taker"
     },
     {
       "name": "Project Tracker App",
       "description": "Project Tracker App using Handlebars",
-      "imgurl": "images/portfolio/project-tracker.png",
+      "imgurl": "portfolio/project-tracker.png",
       "githuburl": "https://github.com/tesseir/project-tracker"
     },
     {
       "name": "A simple Readme Generator",
       "description": "A simple Readme Generator",
-      "imgurl": "images/portfolio/readme-generator.png",
+      "imgurl": "portfolio/readme-generator.png",
       "githuburl": "https://github.com/tesseir/readme-generator"
     },
     {
       "name": "social media API",
       "description": "A social media API using MongoDB, Mongoose, and Express",
-      "imgurl": "images/portfolio/social-media-api.png",
+      "imgurl": "portfolio/social-media-api.png",
       "githuburl": "https://github.com/tesseir/social-media-api"
     },
     {
       "name": "A simple workday scheduler",
       "description": "A simple workday scheduler",
-      "imgurl": "images/portfolio/workday-scheduler.png",
+      "imgurl": "portfolio/workday-scheduler.png",
       "githuburl": "https://github.com/tesseir/Workday-Scheduler"
     },
   ],
