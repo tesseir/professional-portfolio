@@ -34,12 +34,12 @@ export default class Porfolio extends Component {
                 <div className="item-wrap">
                   <a href="https://github.com/tesseir/e-commerce" target='_blank'>
                     <img src="images/portfolio/e-commerce.png" className="item-img" />
-                    <div className="overlay">
+                    {/* <div className="overlay">
                       <div className="portfolio-item-meta">
                         <h5>Click Here to View Repo</h5>
                         <p>E-commerce API</p>
                       </div>
-                    </div>
+                    </div> */}
                   </a>
                 </div>
               </div>
