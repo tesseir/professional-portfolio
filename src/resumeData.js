@@ -66,37 +66,37 @@ let resumeData = {
   ],
   "portfolio": [
     {
-      "name": "E-commerce API",
+      "name": "Click Here to View Repo",
       "description": "E-commerce API",
       "imgurl": "images/portfolio/e-commerce.png",
       "githuburl": "https://github.com/tesseir/e-commerce"
     },
     {
-      "name": "Note Taker App",
+      "name": "Click Here to View Repo",
       "description": "Note Taker App",
       "imgurl": "images/portfolio/note-taker.png",
       "githuburl": "https://github.com/tesseir/note-taker"
     },
     {
-      "name": "Project Tracker",
+      "name": "Click Here to View Repo",
       "description": "Project Tracker App using Handlebars",
       "imgurl": "images/portfolio/project-tracker.png",
       "githuburl": "https://github.com/tesseir/project-tracker"
     },
     {
-      "name": "Readme Generator",
+      "name": "Click Here to View Repo",
       "description": "A simple Readme Generator",
       "imgurl": "images/portfolio/readme-generator.png",
       "githuburl": "https://github.com/tesseir/readme-generator"
     },
     {
-      "name": "Social Media API",
+      "name": "Click Here to View Repo",
       "description": "A social media API using MongoDB, Mongoose, and Express",
       "imgurl": "images/portfolio/social-media-api.png",
       "githuburl": "https://github.com/tesseir/social-media-api"
     },
     {
-      "name": "workday scheduler",
+      "name": "Click Here to View Repo",
       "description": "A simple workday scheduler",
       "imgurl": "images/portfolio/workday-scheduler.png",
       "githuburl": "https://github.com/tesseir/Workday-Scheduler"
